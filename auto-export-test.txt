@@ -1,0 +1,1 @@
+auto-export test: this file should reach the public repo on its own
