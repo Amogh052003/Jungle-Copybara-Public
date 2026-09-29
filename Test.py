@@ -6,11 +6,3 @@ print("print5")
 print("print6")
 print("print7")
 print("in the middle")
-print("print8")
-print("print9")
-print("print10")
-print("print11") 
-adfdasfsdafsadfsa
-print("new line ")
-WDASDSA
-print("my print hello")
